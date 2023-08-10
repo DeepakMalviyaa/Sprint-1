@@ -1,0 +1,15 @@
+*{
+    font-family: sans-serif;
+    text-align: center;
+    color: rgb(233, 142, 31);
+    
+}
+    body{
+    
+    background-image: url(/Sprint1ecommerce-website/bacgraund2.jpg);
+    background-size: cover;
+    height: 1100% ;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
